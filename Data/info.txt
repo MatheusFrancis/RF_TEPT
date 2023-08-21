@@ -1,0 +1,3 @@
+C017 não tem relatório do excel
+
+C007 e P034 foram usados para conjunto de teste
